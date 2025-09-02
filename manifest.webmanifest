@@ -1,0 +1,15 @@
+{
+    "name": "TikTok Live Games",
+    "short_name": "TikTok Live Games",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#fff",
+    "description": "TikTok Live Games",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-light.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }

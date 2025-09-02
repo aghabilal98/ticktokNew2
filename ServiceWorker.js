@@ -1,9 +1,9 @@
 const cacheName = "SmooGames-TikTok Live Games-6.1";
 const contentToCache = [
-    "Build/tiktokTest.loader.js",
-    "Build/tiktokTest.framework.js.unityweb",
-    "Build/tiktokTest.data.unityweb",
-    "Build/tiktokTest.wasm.unityweb",
+    "Build/ticktokNew2.loader.js",
+    "Build/ticktokNew2.framework.js",
+    "Build/ticktokNew2.data",
+    "Build/ticktokNew2.wasm",
     "TemplateData/style.css"
 
 ];
